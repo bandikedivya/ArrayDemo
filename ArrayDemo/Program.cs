@@ -34,7 +34,7 @@ namespace ObjectOrientedConceptsContd
                 Console.WriteLine(item.Price);
                 Console.WriteLine(item.Name);
                 Console.WriteLine(item.Processor);
-                Console.WriteLine("------------------------------------------------");
+                Console.WriteLine("-------------------------------------------------------------------");
                 Console.Read();
 
             }
