@@ -15,7 +15,7 @@ namespace ObjectOrientedConceptsContd
             laptops[0].RAM = 8;
             laptops[0].HardDisk = 212;
             laptops[0].Name = "Platina";
-            laptops[0].Processor = "Intel 5";
+            laptops[0].Processor = "Intel 7";
             laptops[0].FingerSensor = null;
             laptops[0].Price = 70000;
 
